@@ -11,6 +11,11 @@
     padding: 1rem;
     border-radius: 10px;
     position: relative;
+    overflow: hidden;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    &:hover .card-over {
+      transform: translateY(0%);
+    }
   }
   .title {
     color: $backgroundColor;
@@ -36,5 +41,8 @@
     font-size: 1.3rem;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 1rem;
+    transform: translateY(100%);
+    z-index: 1;
+    transition: transform 0.7ss ease-in-out;
   }
 }
