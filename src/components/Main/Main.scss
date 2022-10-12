@@ -24,8 +24,8 @@
   }
 
   img {
-    width: 500px;
-    height: 350px;
+    width: 350px;
+    height: 300px;
     object-fit: cover;
     filter: grayscale(0);
 
@@ -43,6 +43,6 @@
     padding: 1rem;
     transform: translateY(100%);
     z-index: 1;
-    transition: transform 0.7ss ease-in-out;
+    transition: transform 0.7s ease-in-out;
   }
 }
