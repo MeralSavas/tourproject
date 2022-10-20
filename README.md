@@ -1,7 +1,7 @@
 ## Project : Template
 ## Check The Live Website :arrow_right: [Live Website](https://earth-tour-places.netlify.app/)
 ## Visualization of the Website
-![Form]()
+![Form](./video_1.gif)
 
 
 
