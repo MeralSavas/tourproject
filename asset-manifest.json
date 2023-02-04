@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MeralSavas/tourproject/static/css/main.ae938028.css",
+    "main.js": "/MeralSavas/tourproject/static/js/main.d6072196.js",
+    "index.html": "/MeralSavas/tourproject/index.html",
+    "main.ae938028.css.map": "/MeralSavas/tourproject/static/css/main.ae938028.css.map",
+    "main.d6072196.js.map": "/MeralSavas/tourproject/static/js/main.d6072196.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae938028.css",
+    "static/js/main.d6072196.js"
+  ]
+}
