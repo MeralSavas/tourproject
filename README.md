@@ -1,3 +1,18 @@
+## Project : Template
+## Check The Live Website :arrow_right: [Live Website](https://earth-tour-places.netlify.app/)
+## Visualization of the Website
+![Form](./video_1.gif)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
