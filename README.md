@@ -6,10 +6,37 @@
 
 
 
+Description
+Project aims to create an image gallery app using React.
+
+Learning Outcomes<br>
+
+At the end of the project, you will be able to;
+
+* improve coding skills within HTML & CSS & JS & ReactJS.
+
+* use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
 
+Project Skeleton
 
+```Tour Places Project(folder)
+|
+|----README.md
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       ├── cards
+│    │       ├── data
+│    │       ├── header
+│    │       ├── navbar
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    ├── index.css
+└── package.json```
 
 
 
