@@ -6,6 +6,7 @@ const Main = () => {
   console.log(data);
   return (
     <div className="card-container">
+      {/* // veri cekme */}
       {data.map(
         (item, index) => (
           <Card {...item} key={index} />
