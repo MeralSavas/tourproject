@@ -40,12 +40,6 @@ Tour Places Project(folder)
 └── package.json
 ```
 
-
-## Overview
-
-I mastered HTML & CSS & JS & ReactJS features in this project. You can see the visual representation of the website above.
-
-
 ## Notes
 
 Step 1: Create React App using npx create-react-app image-gallery
