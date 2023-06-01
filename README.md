@@ -50,7 +50,3 @@ Step 3: Push your application into your own public repo on Github
 
 Step 4: Add project gif to your project and README.md file.
 
-## Resources
-
-🔥 You can use data.js for your own work.
-
