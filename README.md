@@ -54,4 +54,3 @@ Step 4: Add project gif to your project and README.md file.
 
 🔥 You can use data.js for your own work.
 
-### ⌛ Happy Coding ✍
