@@ -11,13 +11,7 @@ Project aims to create an image gallery app using React.
 
 ## Learning Outcomes
 
-At the end of the project, you will be able to;
-
-* improve coding skills within HTML & CSS & JS & ReactJS.
-
-* use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-
+* HTML & CSS & JS & ReactJS.
 
 ## Project Skeleton
 
