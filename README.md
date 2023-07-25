@@ -38,8 +38,6 @@ Tour Places Project(folder)
 
 Step 1: Create React App using npx create-react-app image-gallery
 
-Step 2: For images you can use Images.
-
 
 
 
