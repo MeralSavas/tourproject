@@ -34,10 +34,6 @@ Tour Places Project(folder)
 └── package.json
 ```
 
-## Notes
-
-Step 1: Create React App using npx create-react-app image-gallery
-
 
 
 
